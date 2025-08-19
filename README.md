@@ -29,7 +29,7 @@ Exemple avec un utilisateur spécifique :
 java -jar target/github-user-activity-1.0-SNAPSHOT.jar torvalds
 ~~~
 
-Ou sans argument (utilisateur par défaut) :
+Ou sans argument (l’utilisateur doit être mentionné dans le CLI) :
 
 ~~~bash
 java -jar target/github-user-activity-1.0-SNAPSHOT.jar
